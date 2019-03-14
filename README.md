@@ -1,6 +1,7 @@
 Game Name: Seek
 
 Gameplay: Player control the main character to avoid enemies, and kill them by click.
+
             * Attack:       - Left mouse button as basic attack, simply do damage.
                             - Right mouse button as spell, have different effect depends on the spell.
                             - Passive: Each different role has different passive.
@@ -17,6 +18,7 @@ Gameplay: Player control the main character to avoid enemies, and kill them by c
                             - Lose will not restore stage data, player will keep going from current stage;
                             
             * Character:    - Different player controled character has different ablitlies, and different enemies have different effect as well.
+            
             
 Story:  A seeker mage named Unknow need to find the path to the "Truth", during the journey, he will have to defeat lots of demons.
 
